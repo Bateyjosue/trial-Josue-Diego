@@ -1,0 +1,10 @@
+
+@media (max-width: 1000px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+body {
+  display: flex;
+}
